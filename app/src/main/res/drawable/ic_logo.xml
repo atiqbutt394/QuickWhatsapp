@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="36dp"
+    android:height="36dp"
+    android:viewportWidth="40"
+    android:viewportHeight="40">
+    <!-- White circle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M20,20m-20,0a20,20 0,1 1,40 0a20,20 0,1 1,-40 0"/>
+    <!-- Lightning bolt (WhatsApp green) -->
+    <path
+        android:fillColor="#25D366"
+        android:pathData="M21,6 L13,22 L19,22 L15,34 L27,18 L21,18 Z"/>
+</vector>

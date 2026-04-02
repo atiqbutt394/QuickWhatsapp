@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Speech bubble body (white) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M22,20 C22,13 28,8 35,8 L73,8 C80,8 86,13 86,20 L86,62 C86,69 80,74 73,74 L46,74 L30,88 L30,74 C24,74 22,69 22,62 Z"/>
+    <!-- Lightning bolt inside bubble (WhatsApp green) -->
+    <path
+        android:fillColor="#25D366"
+        android:pathData="M57,22 L42,48 L53,48 L46,66 L66,40 L55,40 Z"/>
+</vector>

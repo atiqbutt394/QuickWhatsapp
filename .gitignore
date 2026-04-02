@@ -1,0 +1,33 @@
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Build files
+build/
+*/build/
+.gradle/
+
+# Local configuration (contains SDK path, never commit)
+local.properties
+
+# Android Studio / IntelliJ IDEA
+.idea/
+*.iml
+*.hprof
+
+# Keystore files (never commit signing keys)
+*.jks
+*.keystore
+*.p12
+
+# Native build
+.externalNativeBuild/
+.cxx/
+
+# macOS
+.DS_Store
+
+# KSP / generated code
+**/generated/
